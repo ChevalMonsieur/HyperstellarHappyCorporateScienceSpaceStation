@@ -9,10 +9,9 @@
 
 
 ## Présentation du projet
-<span style="color:red">
-  a finir
-</span>
-Hyperstellar Happy Corcorate Science Space Station (ou HHCSSS) est un projet de groupe...
+
+A FINIR
+<!--Hyperstellar Happy Corcorate Science Space Station (ou HHCSSS) est un projet de groupe...-->
 
 
 ## Présentation du jeu
