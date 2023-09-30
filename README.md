@@ -5,6 +5,7 @@
 <!--faire un sommaire avec des liens cliquables vers les sujets-->
 [Présentation du jeu](#présentation-du-jeu)<br>
 [Règles du jeu](#règles-du-jeu)<br>
+[Installation](#installation)<br>
 
 <br>
 
@@ -69,7 +70,7 @@ La partie est terminée quand un joueur atteint ou dépasse 150 points de victoi
 
 <br>
 
-## Comment jouer
+## Installation
 
 <b> Windows seulement </b>
 1. Telecharger le fichier .zip nommé Build
