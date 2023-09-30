@@ -3,21 +3,17 @@
 ## Sommaire 
 
 <!--faire un sommaire avec des liens cliquables vers les sujets-->
-[Présentation du projet](#présentation-du-projet)<br>
 [Présentation du jeu](#présentation-du-jeu)<br>
 [Règles du jeu](#règles-du-jeu)<br>
 
-
-## Présentation du projet
-
-A FINIR
-<!--Hyperstellar Happy Corcorate Science Space Station (ou HHCSSS) est un projet de groupe...-->
-
+<br>
 
 ## Présentation du jeu
 
 Hyperstellar Happy Corporate Science Space Station est un jeu de plateau dans lequel chaque joueur est un milliardaire visionnaire et novateur, qui a délaissé la vie terrestre pour se consacrer à l’exploration spatiale au sein d’une station spatiale de recherche scientifique privée pour l’avancée générale du genre humain. <br><br>Cette mission nécessite des capitaux immenses, et donc la collaboration de plusieurs milliardaires partageant la même aspiration. <br>Mais chacun souhaite être le plus grand scientifique
 visionnaire novateur et devenir le maître incontesté de la station, et donc à terme de l’univers entier...<br>
+
+<br>
 
 ## Règles du jeu
 
@@ -70,3 +66,12 @@ Ensuite, chaque joueur **paie l’entretien de ses chercheurs**, en dépensant u
 ### Fin de partie :
 
 La partie est terminée quand un joueur atteint ou dépasse 150 points de victoire (tour complet sur la frise) : ce joueur a gagné, et le classement des joueurs suivant se lit sur la frise des points de victoire. <br> Elle est également terminée s’il ne reste plus qu’un joueur à la fin d’une révolution.
+
+<br>
+
+## Comment jouer
+
+<b> Windows seulement </b>
+1. Telecharger le fichier .zip nommé Build
+2. Lancer l'application setup a l'intérieur
+3. rechercher et lancer S2.01_2023_C2 dans la barre de recherche de la barre des tâches
