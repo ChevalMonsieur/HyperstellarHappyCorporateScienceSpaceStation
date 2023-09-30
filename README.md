@@ -73,7 +73,7 @@ La partie est terminée quand un joueur atteint ou dépasse 150 points de victoi
 ## Installation
 
 <b> Windows seulement </b>
-1. Telecharger le fichier Build.zip
-2. Extraire tout et lancer l'application setup a l'intérieur
+1. Telecharger le dossier Build
+2. lancer l'application setup a l'intérieur
 3. rechercher et lancer S2.01_2023_C2 dans la barre de recherche de la barre des tâches
 4. Jouer
